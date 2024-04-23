@@ -2,7 +2,7 @@
 
 This is a simple API that returns a welcome message.
 
-## A continuacion se detallan los pasos que realiza el pipelin, el cual es testeado por un job automatico en jenkins cuando se hacen push y PR:
+## A continuacion se detallan los pasos que realiza el pipeline del archivo Jenkinsfile, el cual es testeado por un job automatico en jenkins cuando se hacen push y PR:
 
 
 ## Run your local environment
