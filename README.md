@@ -2,6 +2,7 @@
 
 This is a simple API that returns a welcome message.
 
+## Cabe resaltar que para que el job automatico funcione se debe agregar una deploy key en github, previamente generada desde el usuario de jenkins en la consolad de ubuntu.
 ## A continuacion se detallan los pasos que realiza el pipeline del archivo Jenkinsfile, el cual es testeado por un job automatico en jenkins cuando se hacen push y PR:
 
 
