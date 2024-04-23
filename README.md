@@ -2,7 +2,8 @@
 
 This is a simple API that returns a welcome message.
 
-## Probando JOB 4
+## A continuacion se detallan los pasos que realiza el pipelin, el cual es testeado por un job automatico en jenkins cuando se hacen push y PR:
+
 
 ## Run your local environment
 
